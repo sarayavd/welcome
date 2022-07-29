@@ -281,4 +281,5 @@ a:hover {
   padding: 0 auto;
   height: 400px;
   width: 50%;
+  z-index: 1;
 }
