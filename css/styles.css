@@ -103,13 +103,13 @@ hr {
 
 .bottom-cloud {
   position: absolute;
-  left: 150px;
-  bottom: 350px;
+  left: 100px;
+  bottom: 300px;
 }
 
 .top-cloud {
   position: absolute;
-  right: 300px;
+  right: 200px;
   top: 100px;
   height: 150px;
   width: 150px;
